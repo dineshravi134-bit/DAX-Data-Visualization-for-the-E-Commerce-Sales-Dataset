@@ -69,5 +69,4 @@ ightarrow$ Profit) [cite: 17].
 6. **Minimum Target Multi-Row Card:** Displays minimum targets segmented by category [cite: 23].
 7. **Sales Performance Matrix:** Comprehensive cross-tabulation comparing actual sales to targets across categories and months [cite: 24].
 8. **Geographic Sales Analysis:** Map visualization tracking revenue distribution across cities [cite: 24].
-9. **Sales Distribution by Sub-Category:** Treemap representing sub-category performance proportions [cite: 24].
-10. **Order Count Analysis by State:** Funnel chart highlighting regional order volume distribution [cite: 24].
+9. **Order Count Analysis by State:** Funnel chart highlighting regional order volume distribution [cite: 24].
